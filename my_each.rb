@@ -9,4 +9,4 @@ def my_each(array)
 end
 
 collection = [1,2,3,4]
-my_each(collection) { |element| puts element}
+my_each(collection) { |element| element}
